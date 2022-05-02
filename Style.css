@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  
+  .login{
+   background: url('https://images5.alphacoders.com/927/thumb-1920-927025.png');
+   background-size: 100%;
+   background-position: 100%;
+   height: 700px;
+   border-top: solid 2px rgb(0, 0, 0);
+   text-align: center;
+}
+
+h1{
+  color:white;
+  text-align: center;
+  font-family: "Aldrich";
+  font-size: 60px;
+  padding-top: 20px;
+}
+
+h2{
+text-align: center;
+color: rgb(0, 0, 0);
+font-family: "Aldrich";
+padding-bottom: 380px;
+}
+
+h5{
+text-align: center;
+font-size: 18px;
+font-family:'Zen Kurenaido';
+color: white;
+
+
+}
+
+  input {
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border: solid, black;
+  }
+
+
+body {
+    background-image: url('https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/322330/4a1a9aaa02672104c56b52cc850cd84dcc15c95c.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.intro {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    margin:0%;
+
+  }
+
+.cabeçalho {
+    position: relative;
+    opacity: 1;
+    background: rgb(10, 10, 12);
+    height: 32px;
+    width: 100%;
+    text-align: center;
+    font-family: "Aldrich";
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 0%;
+  }
+
+.a1:hover{
+  color:rgb(78, 78, 78)
+}
+
+.a2:hover{
+  color:rgb(4, 0, 255)
+}
+
+.a3:hover{
+  color:rgb(255, 0, 0)
+}
+
+.a4:hover{
+  color:rgb(9, 255, 0)
+}
+
+
+.botao {
+
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  border: solid 3px rgb(0, 0, 0);
+  border-radius: 2px;
+  padding: 0px 32px;
+  height: 55px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+
+.botao:hover   {
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+	border-color: #ffffff;
+}
+
+.base {
+  background: black;
+  
+  
+
+}
+
+.conteudo{
+display: table
+
+
+}
+.conteudo2{
+  margin-top: 50px;
+  height: 150px;
+  display: table
+  
+
+}
+.img{
+display: table-cell;
+justify-content: space-between;
+margin-left: 20px;
+margin-top: 10px;
+border-radius: 50%;
+width: 125px;
+height: 110px;
+float:left;}
+
+.img2{
+  display: table-cell;
+  justify-content: space-between;
+  margin-left: 20px;
+  border-radius: 50%;
+  width: 125px;
+  height: 110px;
+  float:left;}
+
+  .img2e{
+    display: table-cell;
+    justify-content: space-between;
+    margin-left: 40px;
+    border-radius: 50%;
+    width: 125px;
+    height: 110px;
+    float:left;}
+
+
+.txt{
+  margin-top: 48px;
+  align-content: center;
+  float:left;
+  color:white;
+  display:table-cell;
+  width: 450px;
+  font-size: 20px;
+  font-family:"Aldrich";
+  margin-left:25px;
+}
+
+.txt2{
+  margin-top: 24px;
+  align-content: center;
+  float:left;
+  color:white;
+  display:table-cell;
+  width: 450px;
+  font-size: 20px;
+  font-family:"Aldrich";
+  margin-left:25px;
+}
+
+.txt2e{
+  margin-top: 24px;
+  align-content: center;
+  float:left;
+  color:white;
+  display:table-cell;
+  width: 450px;
+  font-size: 20px;
+  font-family:"Aldrich";
+  margin-left:5px;
+}
+
+.base2{
+  background: rgb(0, 0, 0);
+
+
+
+
+}
+.conteudob2{
+height: 470px;
+color:rgb(255, 255, 255); 
+}
+
+
+.imgb{
+  margin: 30px;
+  opacity:1;
+  display: table-cell;
+  float:right;
+
+}
+
+
+
+
+.txtb{
+  margin-top: 30px;
+  margin-right: 70px;
+  align-content: center;
+  text-align: center;
+  color:rgb(255, 255, 255);
+  display:table-cell;
+  width: 750px;
+  font-size: 40px;
+  font-family:"Aldrich";
+  float:right;
+
+
+
+}
+
+.base3{
+  background: rgb(0, 0, 0);
+
+
+
+
+}
+.conteudob3{
+height: 550px;;
+color:rgb(255, 255, 255); 
+}
+
+
+.imgb2{
+  margin: 30px;
+  opacity:1;
+  display: table-cell;
+  float:right;
+
+}
+
+
+
+
+.txtb2{
+  margin-top: 30px;
+  margin-right: 70px;
+  align-content: center;
+  text-align: center;
+  color:rgb(255, 255, 255);
+  display:table-cell;
+  width: 750px;
+  font-size: 40px;
+  font-family:"Aldrich";
+  float:right;
+
+}
+
+
+.login2{
+
+  border: solid 2px rgb(0, 0, 0);
+  text-align: center;
+}
+
+
+.botao2 {
+
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: solid 3px rgb(255, 255, 255);
+  border-radius: 2px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}
+
+.botao2:hover   {
+	background-color: #000000;
+	color: rgb(255, 255, 255);
+	border-color: #ffffff;
+}
+
+.rodape {
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  margin:0%;
+
+}
